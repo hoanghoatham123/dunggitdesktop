@@ -12,7 +12,7 @@ public:
     struct Point A[100];
     int DoDai;
     CONRAN(){
-        DoDai = 30;// tang code do dai
+        DoDai = 15;// tang code do dai 15
         A[0].x = 10; A[0].y = 10;
         A[1].x = 11; A[1].y = 10;
         A[2].x = 12; A[2].y = 10;
